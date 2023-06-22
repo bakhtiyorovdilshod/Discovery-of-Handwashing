@@ -6,7 +6,6 @@
 </p>
 
 ## Project Objective
-<br>
 <p>The purpose of this project is to examine we're going to reanalyze the data that made Semmelweis discover the importance of handwashing. Let's start by looking at the data that made Semmelweis realize that something was wrong with the procedures at Vienna General Hospital. </p>
 If you have any questions regarding this project or require any further information, feel free to <a href="https://www.linkedin.com/in/deeplearner/" target="_blank">contact me.</a>
 
